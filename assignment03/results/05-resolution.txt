@@ -1,0 +1,2 @@
+Frequency resolution: 2.0 Hz
+Frequency resolution with zero-padding: 1.0 Hz

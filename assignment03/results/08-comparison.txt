@@ -1,0 +1,1 @@
+The spectrogram generated with the rectangular window has significantly more spectral leakage than the hanning spectrogram, but it also better frequency resolution.
